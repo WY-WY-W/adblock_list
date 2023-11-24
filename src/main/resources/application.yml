@@ -67,6 +67,16 @@ application:
         
       - name: CJX's Annoyance List
         path: https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+      
+      - name: 'anti-AD' #规则名称
+        path: 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt' #规则地址
+     
+      - name: 'AdGuard DNS filter' #规则名称
+        path: 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt' #规则地址
+      
+      - name: 'CHN: AdRules DNS List' #规则名称
+        path: 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt' #规则地址
+        
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - name: 'xndeye private List'
