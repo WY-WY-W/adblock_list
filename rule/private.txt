@@ -5,18 +5,18 @@
 ! Description: 自用补充规则, 完全主观, 不定期更新.
 #-------------白名单---------------
 #个推
-@@||sdk.open.talk.gepush.com^
+#@@||sdk.open.talk.gepush.com^
 #公共CDN
-@@||bootcdn.net^
+#@@||bootcdn.net^
 #----------------黑名单-----------------
-||log.uu.163.com^
-||ksmobile.com^
+#||log.uu.163.com^
+#||ksmobile.com^
 #MIUI浏览器搜索联想(会屏蔽广告和正常联想词)
-||exp.sug.browser.miui.com^
+#||exp.sug.browser.miui.com^
 #-----------------待定------------------
 #未知来源 广告/日志
-||toblog.ctobsnssdk.com^
+#||toblog.ctobsnssdk.com^
 #-----------------Web------------------
-appinn.com##.featured-section
-appinn.com###sidebar.wp-block-image, .size-full
-appinn.com###latest-posts .latestPost:nth-child(-n+3)
+#appinn.com##.featured-section
+#appinn.com###sidebar.wp-block-image, .size-full
+#appinn.com###latest-posts .latestPost:nth-child(-n+3)
