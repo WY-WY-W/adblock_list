@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-12-31 16:01:22
+! Last Modified: 2024-01-01 00:00:54
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -577,7 +577,6 @@
 127.0.0.1 ems.cp12.wasu.tv
 127.0.0.1 duomeng.cn
 127.0.0.1 ads1.msads.net
-127.0.0.1 l.qq.com
 127.0.0.1 ad.madserving.com
 127.0.0.1 nex.163.com
 127.0.0.1 m-adash.m.taobao.com
@@ -615,9 +614,7 @@
 127.0.0.1 api.touchxd.com
 127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 ad2.yam.com
-127.0.0.1 mi.gdt.qq.com
 127.0.0.1 ii.gdt.qq.com
-127.0.0.1 itx5.smartadserver.com
 127.0.0.1 s3.pfp.sina.net
 127.0.0.1 mtrace.play.aiseet.atianqi.com
 127.0.0.1 uusee.adsame.com
@@ -655,7 +652,6 @@
 127.0.0.1 04.lzzncm.com
 127.0.0.1 adse.ximalaya.com
 127.0.0.1 adavideo.baidu.com
-127.0.0.1 v.gdt.qq.com
 127.0.0.1 s.irs03.com
 127.0.0.1 adeng.hpplay.cn
 127.0.0.1 yaolan.adsame.com
@@ -710,6 +706,7 @@
 127.0.0.1 report.adview.cn
 127.0.0.1 ad.cctv.com
 127.0.0.1 aa0.pub.funshion.com
+127.0.0.1 adn.insight.ucweb.com
 127.0.0.1 adres.myaora.net
 127.0.0.1 api.newad.ifeng.com
 127.0.0.1 android.bcfads.com
@@ -753,7 +750,6 @@
 127.0.0.1 msg.iqiyi.com
 127.0.0.1 ort.stsdk.vivo.com.cn
 127.0.0.1 dspimg.adsame.com
-127.0.0.1 cdn1.smartadserver.com
 127.0.0.1 ad.weixin.qq.com
 127.0.0.1 h-adashx.ut.youku.com
 127.0.0.1 zs16.cnzz.com
@@ -767,6 +763,7 @@
 127.0.0.1 monitor-uu.play.aiseet.atianqi.com
 127.0.0.1 api.poll.aiseet.atianqi.com
 127.0.0.1 tracking.klickthru.com
+127.0.0.1 adtrack.ucweb.com
 127.0.0.1 sm.domob.cn
 127.0.0.1 asp.adsame.com
 127.0.0.1 cbjs.baidu.com
@@ -779,6 +776,7 @@
 127.0.0.1 tran.mediav.com
 127.0.0.1 www.appuu.cn
 127.0.0.1 au.w.inmobi.cn
+127.0.0.1 h-adashx.ut.taobao.com
 127.0.0.1 ei.cnzz.com
 127.0.0.1 gw.365you.com
 127.0.0.1 adservice.google.com.au
@@ -1465,7 +1463,6 @@
 127.0.0.1 hnb2c.adsame.com
 127.0.0.1 4171764.fls.doubleclick.net
 127.0.0.1 r.edge.inmobicdn.net
-127.0.0.1 diff3.smartadserver.com
 127.0.0.1 stnetsdk.vivo.com.cn
 127.0.0.1 ad-apac.doubleclick.net
 127.0.0.1 browserkernel.baidu.com
@@ -1552,7 +1549,6 @@
 127.0.0.1 vyk.admaster.com.cn
 127.0.0.1 www.doumob.com
 127.0.0.1 tr.adsame.com
-127.0.0.1 diff.smartadserver.com
 127.0.0.1 hzs8.cnzz.com
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 tencent-dtv.m.cn.miaozhen.com
@@ -1621,7 +1617,6 @@
 127.0.0.1 m.aty.sohu.com
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 nsclickvideo.baidu.com
-127.0.0.1 c.l.qq.com
 127.0.0.1 conf.xdrig.com
 127.0.0.1 dpush-api.domob.cn
 127.0.0.1 adcdn.hpplay.cn
@@ -1637,6 +1632,7 @@
 127.0.0.1 ssp.1nmob.com
 127.0.0.1 s72f5a8e.irs03.com
 127.0.0.1 sdk-globalconfig.aiclk.com
+127.0.0.1 audid-api.taobao.com
 127.0.0.1 api-luckycoinsdk.doglobal.net
 127.0.0.1 zvs2.cnzz.com
 127.0.0.1 mixer.cupid.ptqy.gitv.tv
@@ -1809,7 +1805,6 @@
 127.0.0.1 v2.gdt.qq.com
 127.0.0.1 android.rqd.qq.com
 127.0.0.1 nl.notice.iqiyi.com
-127.0.0.1 lives.l.qq.com
 127.0.0.1 misc.wcd.qq.com
 127.0.0.1 max.mediav.com
 127.0.0.1 8b6dfa.v.admaster.com.cn
@@ -2528,7 +2523,6 @@
 127.0.0.1 vntsm.com
 127.0.0.1 smaato.com
 127.0.0.1 prooffactor.com
-127.0.0.1 audid-api.taobao.com
 127.0.0.1 events-collector.spot.im
 127.0.0.1 app-ab04.marketo.com
 127.0.0.1 update.morgdog.springserve.com
@@ -2726,6 +2720,7 @@
 127.0.0.1 hades.getsocial.im
 127.0.0.1 js.logentries.com
 127.0.0.1 adserver.merciless.localstars.com
+127.0.0.1 l.qq.com
 127.0.0.1 googleads4.g.doubleclick.net
 127.0.0.1 ioslog.ssl2.duapps.com
 127.0.0.1 adserver.adtech.advertising.com
@@ -2749,6 +2744,7 @@
 127.0.0.1 usc.adserver.snapads.com
 127.0.0.1 es-gmtdmp.mookie1.com
 127.0.0.1 srv.buysellads.com
+127.0.0.1 mi.gdt.qq.com
 127.0.0.1 cdn.viglink.com
 127.0.0.1 c.ad-srv.co
 127.0.0.1 global.appnext.com
@@ -3221,6 +3217,7 @@
 127.0.0.1 synad3.nuffnang.com.my
 127.0.0.1 singular.net
 127.0.0.1 b.adnxs.com
+127.0.0.1 diff3.smartadserver.com
 127.0.0.1 vae-bid.adsrvr.org
 127.0.0.1 fastlane-adv.rubiconproject.com
 127.0.0.1 sg2-bid.adsrvr.org
@@ -3654,12 +3651,10 @@
 127.0.0.1 4706.api.swrve.com
 127.0.0.1 a.idio.co
 127.0.0.1 api.taps.io
-127.0.0.1 adtrack.ucweb.com
 127.0.0.1 renderer.apester.com
 127.0.0.1 sdk.collabollc.com
 127.0.0.1 l.logly.co.jp
 127.0.0.1 im64.jpush.cn
-127.0.0.1 h-adashx.ut.taobao.com
 127.0.0.1 ca4-bid.adsrvr.org
 127.0.0.1 segment.prod.bidr.io
 127.0.0.1 open.adview.cn
@@ -4417,6 +4412,7 @@
 127.0.0.1 static.cleverpush.com
 127.0.0.1 cdn.jivox.com
 127.0.0.1 networksdk.ssacdn.com
+127.0.0.1 cdn1.smartadserver.com
 127.0.0.1 sc-analytics.appspot.com
 127.0.0.1 contineljs.com
 127.0.0.1 a1344.casalemedia.com
@@ -4897,6 +4893,7 @@
 127.0.0.1 amobee-partners.tremorhub.com
 127.0.0.1 adstax-match-proxy.adrtx.net
 127.0.0.1 meraxes-cdn.polarmobile.com
+127.0.0.1 c.l.qq.com
 127.0.0.1 lbal.wowanalytics.co.uk
 127.0.0.1 creative-platform.vrvm.com
 127.0.0.1 sdk.iad-08.braze.com
@@ -5157,6 +5154,7 @@
 127.0.0.1 combine.asnapieu.com
 127.0.0.1 forbes.media.net
 127.0.0.1 image5.pubmatic.com
+127.0.0.1 itx5.smartadserver.com
 127.0.0.1 stage-bid.applovin.com
 127.0.0.1 casalemedia.com.edgekey.net
 127.0.0.1 mena-gmtdmp.mookie1.com
@@ -5215,7 +5213,6 @@
 127.0.0.1 appodeal.com
 127.0.0.1 cma.kargo.com
 127.0.0.1 mplusps.ims.vodafone.com
-127.0.0.1 adn.insight.ucweb.com
 127.0.0.1 prebid.mgid.com
 127.0.0.1 us.tags.newscgp.com
 127.0.0.1 flurry.com
@@ -6033,6 +6030,7 @@
 127.0.0.1 adcdn.goo.ne.jp
 127.0.0.1 go.redirectingat.com
 127.0.0.1 pixel-apac.rubiconproject.com
+127.0.0.1 v.gdt.qq.com
 127.0.0.1 t.effectivemeasure.net
 127.0.0.1 adsunflower.com
 127.0.0.1 publishers.tremorhub.com
@@ -6681,6 +6679,7 @@
 127.0.0.1 eu-gmtdmp.gd1.mookie1.com
 127.0.0.1 us.criteo.com
 127.0.0.1 sprint.asapp.com
+127.0.0.1 lives.l.qq.com
 127.0.0.1 theoremreach.com
 127.0.0.1 spire.aarki.net
 127.0.0.1 signal-beacon.s-onetag.com
@@ -7305,6 +7304,7 @@
 127.0.0.1 tags.h12-media.com
 127.0.0.1 lentainform.com
 127.0.0.1 img.ssl.msdk.qq.com
+127.0.0.1 diff.smartadserver.com
 127.0.0.1 rts.mobula.sdk.duapps.com
 127.0.0.1 push.mobilefonex.com
 127.0.0.1 collect2585gmsfw.deltadna.net
