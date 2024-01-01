@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-01-01 08:30:08
+! Last Modified: 2024-01-01 16:07:44
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -677,6 +677,7 @@
 127.0.0.1 st.appsad.cn
 127.0.0.1 localhost
 127.0.0.1 app-tj.adinall.com
+127.0.0.1 net.rayjump.com
 127.0.0.1 paopao2.qiyipic.com
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 b1.ads.oppomobile.com
@@ -1083,6 +1084,7 @@
 127.0.0.1 platform.adwep.com
 127.0.0.1 hybl9bazbc35.pflexads.com
 127.0.0.1 p2sdmkj6t.bkt.clouddn.com
+127.0.0.1 ads.servebom.com
 127.0.0.1 s.domob.cn
 127.0.0.1 epp.2polj.top
 127.0.0.1 ggx01.miguvideo.com
@@ -1123,6 +1125,7 @@
 127.0.0.1 netdna.reporo.net
 127.0.0.1 8b4pea.c.admaster.com.cn
 127.0.0.1 aa1.pub.funshion.com
+127.0.0.1 adx-tk.rayjump.com
 127.0.0.1 a.dounanhuahui.com
 127.0.0.1 tuijian.baidu.com
 127.0.0.1 xiaomi.m.cn.miaozhen.com
@@ -2797,7 +2800,6 @@
 127.0.0.1 api.popin.cc
 127.0.0.1 sjc-bid.contextweb.com
 127.0.0.1 analytics.bestbuy.com
-127.0.0.1 net.rayjump.com
 127.0.0.1 cm.ipinyou.com
 127.0.0.1 ssptrk.adpopcorn.com
 127.0.0.1 adserver.adtechjp.com
@@ -3024,7 +3026,6 @@
 127.0.0.1 media.go2speed.org
 127.0.0.1 tags.viewdeos.com
 127.0.0.1 verizon.demdex.net
-127.0.0.1 ads.servebom.com
 127.0.0.1 blisspoint.us-west-2.stinger-ad.bidr.io
 127.0.0.1 a3795.casalemedia.com
 127.0.0.1 tml.clmbtech.com
@@ -3836,7 +3837,6 @@
 127.0.0.1 statcollector.sidearmsports.com
 127.0.0.1 rules.aatkit.com
 127.0.0.1 rtb.openx.net
-127.0.0.1 adx-tk.rayjump.com
 127.0.0.1 i2i.jp
 127.0.0.1 analytics.picsart.com
 127.0.0.1 code.metalocator.com
