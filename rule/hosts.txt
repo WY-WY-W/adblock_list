@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-03-08 00:03:04
+! Last Modified: 2024-03-08 08:25:47
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -630,6 +630,7 @@
 127.0.0.1 as.adlooxtracking.com
 127.0.0.1 stats.gioneemobile.net
 127.0.0.1 e1.emxdgt.com
+127.0.0.1 admicro1.vcmedia.vn
 127.0.0.1 view.adjust.com
 127.0.0.1 offer.fyber.com
 127.0.0.1 analytics.seattleclouds.com
@@ -1248,6 +1249,7 @@
 127.0.0.1 hades.getsocial.im
 127.0.0.1 js.logentries.com
 127.0.0.1 adserver.merciless.localstars.com
+127.0.0.1 l.qq.com
 127.0.0.1 googleads4.g.doubleclick.net
 127.0.0.1 ioslog.ssl2.duapps.com
 127.0.0.1 adserver.adtech.advertising.com
@@ -1271,6 +1273,7 @@
 127.0.0.1 usc.adserver.snapads.com
 127.0.0.1 es-gmtdmp.mookie1.com
 127.0.0.1 srv.buysellads.com
+127.0.0.1 mi.gdt.qq.com
 127.0.0.1 cdn.viglink.com
 127.0.0.1 c.ad-srv.co
 127.0.0.1 global.appnext.com
@@ -1595,6 +1598,7 @@
 127.0.0.1 hk-wf.taboola.com
 127.0.0.1 dsp-d.ants.vn
 127.0.0.1 moatads.com
+127.0.0.1 auction-load.unityads.unity3d.com
 127.0.0.1 soma-assets.smaato.net
 127.0.0.1 ads.yap.yahoo.com
 127.0.0.1 common.duapps.com
@@ -2519,6 +2523,7 @@
 127.0.0.1 api.tapsell.ir
 127.0.0.1 dmx.districtm.io
 127.0.0.1 push.io.edgekey.net
+127.0.0.1 publisher-config.unityads.unity3d.com
 127.0.0.1 6b73d00a-d4a1-4350-825a-cd3f49afa460.register.collector.scopely.io
 127.0.0.1 as-tlx.3lift.com
 127.0.0.1 adviap.goforandroid.com
@@ -3427,6 +3432,7 @@
 127.0.0.1 amobee-partners.tremorhub.com
 127.0.0.1 adstax-match-proxy.adrtx.net
 127.0.0.1 meraxes-cdn.polarmobile.com
+127.0.0.1 c.l.qq.com
 127.0.0.1 lbal.wowanalytics.co.uk
 127.0.0.1 creative-platform.vrvm.com
 127.0.0.1 sdk.iad-08.braze.com
@@ -4128,6 +4134,7 @@
 127.0.0.1 parsnip.gocarrot.com
 127.0.0.1 videoclientsservicescalls.outbrain.com
 127.0.0.1 global.px.quantserve.com
+127.0.0.1 applog.uc.cn
 127.0.0.1 api.ateam-ad.jp
 127.0.0.1 click.admedia.com
 127.0.0.1 ap.adups.com
@@ -4568,6 +4575,7 @@
 127.0.0.1 adcdn.goo.ne.jp
 127.0.0.1 go.redirectingat.com
 127.0.0.1 pixel-apac.rubiconproject.com
+127.0.0.1 v.gdt.qq.com
 127.0.0.1 t.effectivemeasure.net
 127.0.0.1 adsunflower.com
 127.0.0.1 publishers.tremorhub.com
@@ -4942,6 +4950,7 @@
 127.0.0.1 app-sjh.marketo.com
 127.0.0.1 static.mparticle.com
 127.0.0.1 alogs.umeng.com
+127.0.0.1 configv2.unityads.unity3d.com
 127.0.0.1 sygic-api.infinario.com
 127.0.0.1 marmalade.adthrive.com
 127.0.0.1 s-img.adskeeper.co.uk
@@ -5219,6 +5228,7 @@
 127.0.0.1 eu-gmtdmp.gd1.mookie1.com
 127.0.0.1 us.criteo.com
 127.0.0.1 sprint.asapp.com
+127.0.0.1 lives.l.qq.com
 127.0.0.1 theoremreach.com
 127.0.0.1 spire.aarki.net
 127.0.0.1 signal-beacon.s-onetag.com
@@ -5461,6 +5471,7 @@
 127.0.0.1 microad.jp
 127.0.0.1 prebid.digitru.st
 127.0.0.1 l1-1.anzu.io
+127.0.0.1 log.umsns.com
 127.0.0.1 moat.bfmio.com
 127.0.0.1 imp.voiceads.cn
 127.0.0.1 s-files.innovid.com
@@ -6502,6 +6513,7 @@
 127.0.0.1 api.usabilla.com
 127.0.0.1 open.talk.igexin.com
 127.0.0.1 content.inhousedsp.com
+127.0.0.1 httpkafka.unityads.unity3d.com
 127.0.0.1 sync.ipredictive.com
 127.0.0.1 digicertwc.rubiconproject.com.edgekey.net
 127.0.0.1 aw.mic.mob.com
@@ -6734,6 +6746,7 @@
 127.0.0.1 sjc-249.sjc-rtb1.rfihub.com
 127.0.0.1 c.deployads.com
 127.0.0.1 umeng.co
+127.0.0.1 cdp.cloud.unity3d.com
 127.0.0.1 adservices.brandcdn.com
 127.0.0.1 medias.presage.io
 127.0.0.1 contentstream.pl
@@ -7067,7 +7080,6 @@
 127.0.0.1 ems.cp12.wasu.tv
 127.0.0.1 duomeng.cn
 127.0.0.1 ads1.msads.net
-127.0.0.1 l.qq.com
 127.0.0.1 ad.madserving.com
 127.0.0.1 nex.163.com
 127.0.0.1 m-adash.m.taobao.com
@@ -7104,7 +7116,6 @@
 127.0.0.1 adsview.qq.com
 127.0.0.1 api.touchxd.com
 127.0.0.1 ad2.yam.com
-127.0.0.1 mi.gdt.qq.com
 127.0.0.1 ii.gdt.qq.com
 127.0.0.1 s3.pfp.sina.net
 127.0.0.1 mtrace.play.aiseet.atianqi.com
@@ -7143,7 +7154,6 @@
 127.0.0.1 04.lzzncm.com
 127.0.0.1 adse.ximalaya.com
 127.0.0.1 adavideo.baidu.com
-127.0.0.1 v.gdt.qq.com
 127.0.0.1 s.irs03.com
 127.0.0.1 adeng.hpplay.cn
 127.0.0.1 yaolan.adsame.com
@@ -7268,7 +7278,6 @@
 127.0.0.1 gw.365you.com
 127.0.0.1 adservice.google.com.au
 127.0.0.1 adpm.app.qq.com
-127.0.0.1 log.umsns.com
 127.0.0.1 drd.hauchi.com.tw
 127.0.0.1 c-gtc.getui.com
 127.0.0.1 ww370.smartadserver.com
@@ -7375,7 +7384,6 @@
 127.0.0.1 z5.cnzz.com
 127.0.0.1 rmpad.imtt.qq.com
 127.0.0.1 conversion.adpro.cn
-127.0.0.1 admicro1.vcmedia.vn
 127.0.0.1 adx.sogaha.cn
 127.0.0.1 msg.71.am
 127.0.0.1 ads.mobclix.com
@@ -7677,9 +7685,7 @@
 127.0.0.1 v1-play.log.mgtv.com
 127.0.0.1 mail.adsame.com
 127.0.0.1 api.youxiaoad.com
-127.0.0.1 httpkafka.unityads.unity3d.com
 127.0.0.1 adsco.re
-127.0.0.1 auction-load.unityads.unity3d.com
 127.0.0.1 admusicpic.music.126.net
 127.0.0.1 video-ad-stats.googlesyndication.com
 127.0.0.1 ott-v0-al.data.mgtv.com
@@ -7764,7 +7770,6 @@
 127.0.0.1 ads.gionee.com
 127.0.0.1 dsp.pro.cn
 127.0.0.1 hzs17.cnzz.com
-127.0.0.1 configv2.unityads.unity3d.com
 127.0.0.1 neptune.appads.com
 127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 acs4baichuan.m.taobao.com
@@ -7834,7 +7839,6 @@
 127.0.0.1 sa.tuisong.baidu.com
 127.0.0.1 d.gdt.qq.com
 127.0.0.1 prt.stsdk.vivo.com.cn
-127.0.0.1 applog.uc.cn
 127.0.0.1 cdn1.crispadvertising.com
 127.0.0.1 www.qchannel03.cn
 127.0.0.1 soup.v.qq.com
@@ -7894,7 +7898,6 @@
 127.0.0.1 mobile.Banzai.it
 127.0.0.1 ddd.1sapp.com
 127.0.0.1 ad.bayescom.com
-127.0.0.1 publisher-config.unityads.unity3d.com
 127.0.0.1 adcdn.tencentmusic.com
 127.0.0.1 clientlog3.music.163.com
 127.0.0.1 nsclick.baidu.com
@@ -8086,13 +8089,11 @@
 127.0.0.1 api.myadsget.com
 127.0.0.1 ad.gtbrowser.com
 127.0.0.1 adx.rrt365.com
-127.0.0.1 cdp.cloud.unity3d.com
 127.0.0.1 api-gi.getui.com
 127.0.0.1 techweb.iv.adsame.com
 127.0.0.1 m.aty.sohu.com
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 nsclickvideo.baidu.com
-127.0.0.1 c.l.qq.com
 127.0.0.1 conf.xdrig.com
 127.0.0.1 dpush-api.domob.cn
 127.0.0.1 adcdn.hpplay.cn
@@ -8276,7 +8277,6 @@
 127.0.0.1 v2.gdt.qq.com
 127.0.0.1 android.rqd.qq.com
 127.0.0.1 nl.notice.iqiyi.com
-127.0.0.1 lives.l.qq.com
 127.0.0.1 misc.wcd.qq.com
 127.0.0.1 max.mediav.com
 127.0.0.1 8b6dfa.v.admaster.com.cn
