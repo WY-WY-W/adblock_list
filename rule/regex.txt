@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-07-27 16:00:34
+! Last Modified: 2025-07-28 00:00:32
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: AdGuard DNS filter (https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt)
 ||reachableads-av.*.amazonaws.com^
@@ -20,21 +20,6 @@
 ||s*.skencituer.com^
 ||prebid-*.rubiconproject.com^
 ||hostingcloud.*.wasm^
-! 👇This Part Merge from: AdGuard 中文过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt)
-||tw-726620180914.*.run.app^
-||38.33.15.*.gif
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||67.21.92.*.gif
-||tupian888.*.bcebos.com^
-||ad*.on.cc^
-||ax.*.ifeng.com^
-||121.204.246.*.gif
-||107.167.16.*.gif
-||zbb.bbb.*.pics^
-||vns86.oss-*.aliyuncs.com^
-||asd8900.oss-*.aliyuncs.com^
-||ky891.oss-*.aliyuncs.com^
-||107.167.22.*.gif
 ! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)
 ||install*.zonastat.com^
 ||mssdk*.zijieapi.com^
@@ -57,6 +42,21 @@
 ||track.tiara.
 ||analytics*.clickdimensions.com^
 ||rum*.cdnvideo.ru^
+! 👇This Part Merge from: AdGuard 中文过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt)
+||tw-726620180914.*.run.app^
+||38.33.15.*.gif
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||67.21.92.*.gif
+||tupian888.*.bcebos.com^
+||ad*.on.cc^
+||ax.*.ifeng.com^
+||121.204.246.*.gif
+||107.167.16.*.gif
+||zbb.bbb.*.pics^
+||vns86.oss-*.aliyuncs.com^
+||asd8900.oss-*.aliyuncs.com^
+||ky891.oss-*.aliyuncs.com^
+||107.167.22.*.gif
 ! 👇This Part Merge from: AdGuard DNS filter (https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt)
 ||get-me-wow.
 ! 👇This Part Merge from: AdGuard 中文过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt)
@@ -85,12 +85,9 @@
 ! 👇This Part Merge from: AdGuard 基础过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
 ||gamenguide.com*adbk
 ||itechpost.com*adbk
-! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)
-|load.ss.
-|load.sst.
-||thegreatesthits.
-|load.sgtm.
-|load.gtm.
+! 👇This Part Merge from: AdGuard 基础过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
+||fapnado.*.php|
+Banner468x60
 ! 👇This Part Merge from: AdGuard 移动广告过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt)
 ||ads-*-nfl.yinzcam.com^
 ||ads*.production-public.tubi.io^
@@ -135,6 +132,23 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
+! 👇This Part Merge from: AdGuard 基础过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
+rgmechanicsgames.com*VPN.exe
+||ads*.dfiles.eu^
+||ads*.depositfiles.com^
+||ads*.depositfiles.org^
+||ads*.dfiles.ru^
+! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)
+|load.ss.
+|load.sst.
+||thegreatesthits.
+|load.sgtm.
+|load.gtm.
+! 👇This Part Merge from: AdGuard 恼人广告过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt)
+||widgets.*.webengage.com^
+! 👇This Part Merge from: AdGuard 基础过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
+||ads*.opensubtitles.org^
+@@||cdn*.porn300.com^
 ! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -246,166 +260,8 @@
 ||servo-report.keepstreams.*^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
-! 👇This Part Merge from: halflife-list (https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt)
-||142.91.159.
-||admi2fib4exit^
-! 👇This Part Merge from: AdGuard DNS filter (https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt)
-||mon*-misc.fqnovel.com^
-||logs*.smithsonian.museum^
-||ulog*.kwai-pro.com^
-||collector-*.luigisbox.com^
-||counter*.freecounter.ovh^
-||grs.dbankcloud.
-||mapi-log.qoo*.jp^
-||mgbsdk*.matrix.easebar.com^
-||i-*.ci360.sas.com^
-||analytics-*-nfl.yinzcam.com^
-||xlog*-*.tiktokv.com^
-||api*.amplitude.com^
-||report.*.qq.com^
-||sdk-*.moengage.com^
-||liveme-sensors-collect2-*.amazonaws.com^
-||seller-log-collector.shopee.
-||rtlog*.tiktokv.us^
-||allsportsflix.
-||log*-normal-*.tiktokv.us^
-||23.109.87.
-||ulog.*.kwai-pro.com^
-||hw-sh-pcdn-*.biliapi.net^
-||ulog-*.ksapisrv.com^
-||ubacollect-*.cloud.dbankcloud.cn^
-||track.*.roku.com^
-||appanalysis*.banggood.com^
-||device-metrics-*.amazon.com^
-||maas-*.phunware.com^
-||applog*.matrix.easebar.com^
-||admob-app-id-*.firebaseio.com^
-||tnc-va*.capcutapi.com^
-||23.109.82.
-||mcs.*.tiktokv.com^
-||metrics*.fitanalytics.com^
-||fp-*it*.fengkongcloud.com^
-||log*-misc-lf.amemv.com^
-||ulog*.kwaipros.com^
-||ulog*.gifshow.com^
-||eclog*-*.cafe24.com^
-||158.247.208.
-||logs-*.rebxgame.com^
-||datacollector-*.dt.dbankcloud.cn^
-||log-va*.capcutapi.com^
-||api*.moengage.com^
-||mon*-*.tiktokv.us^
-||batchlogging*-noneu.truecaller.com^
-||imp-*.jampp.com^
-||bc.geocities.
-||tag-based.s3.*.amazonaws.com^
-||tracking.*.miui.com^
-||mon-va*.capcutapi.com^
-||datacollector-*.dt.hicloud.com^
-||ali-bj-pcdn-*.biliapi.net^
-||ulog.*.ksapisrv.com^
-||sonar*.xy.fbcdn.net^
-||suite*.linximpulse.net^
-||cl*.k5a.io^
-||discovery-ios-*.ertelecom.ru^
-||t*.playdigo.live^
-||snowplow-collector-*.amazonaws.com^
-||talpa-analytics.
-||tnc16-*.hypic.com^
-||mcs-va-*.tiktokv.com^
-||tracking-*.trnox.com^
-||mon-*.tiktokv.com^
-||mon*-*.tiktokv.com^
-||tnc*.tiktokv.us^
-||snowplow-collector.
-||batchlogging*-eu.truecaller.com^
-||report.*.gbqofs.io^
-||log-collector.shopee.
-||report*.appmetrica.webvisor.com^
-||parkdomainreal*.site^
-||beacons*.gvt3.com^
-||livetracker.*.pangea-cms.com^
-||flurry.agentportal.*.yahoodns.net^
-||rtlog*.tiktokv.com^
-||srmdata-*.com^
-||use-trk*.bluevoox.com^
-||logservice-*.platform.dbankcloud.cn^
-||log*-normal-useast1a.lemon8-app.com^
-|167.206.10.148^
-||flurry.agentportal-*.yahoodns.net^
-||log*.byteoversea.com^
-||v*.sitecounter.site^
-||mon*-misc-lf.fqnovel.com^
-! 👇This Part Merge from: halflife-list (https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt)
-||util-*.simply-hentai.com^
-||centent.streamp1ay.
-||cas.*.criteo.com^
-||cintent.streanplay.
-! 👇This Part Merge from: AdGuard DNS filter (https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt)
-||adserver*.euroweeklynews.com^
-||bar*.shinobi.jp^
-||an.yandex.
-||mcdp-*.outbrain.com^
-||ad*.bilgin.pro^
-||iphone-caviar.ru*entranceId
-||subnewss*.net^
-||w*statistics.info^
-||matomo.*.vn^
-||bondzgi*.
-||medialand.
-||partner.superbahisaffiliates*.com^
-||rotaban.
-||rusrestbest.
-||v.tzbox*.xyz^
-||v.newsportal*.ru^
-||u*.takru.com^
-||rotabanner.
-||popuptraf.
-||stats2.*.fdnames.com^
-||vst.videolink.
-||videoclik.
-||poshalim.
-||aff*.kolektiva.net^
-||flipflapflo.
-||gonews*.net^
-||real*traf.ru^
-||underclick.
-||log-*.zadn.vn^
-||orbit*.lun.ua^
-||popupclick.
-||alishop*.ru^
-||dw-informer-*.newsru.com^
-||q*-publick.club^
-||piwik.*.vn^
-||letssex.
-||minitds-*.info^
-||banner*.kinogo.by^
-||mautic.*.vn^
-||pop-under.
-||basvformu*.xyz^
-||adserver1.
-||linkexchange.
-||log-*.previewnetworks.com^
-||web-visor.
-||under-click.
-||pop-parad.
-||log-*.epicdn.me^
-||mediacontext.
-||videoclick.
-||stats-*.p2pnow.ru^
-||broredir*s.site^
-||admulti.
-||ad*.tmgrup.com.tr^
-||goodadvert.
-||popunder.
-||tracker.twenga.
-||quangcao-*.epicdn.me^
-||rotator.
-||cdn*.swaxis.com^
-||icq-window.
-||icqwindow.
-||rb*.design.ru^
-||poptraf.
+! 👇This Part Merge from: AdGuard 恼人广告过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt)
+||chat*-ce.chatdealer.jp^
 ! 👇This Part Merge from: damengzhu/banad (https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt)
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
@@ -432,8 +288,10 @@
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
 ! 👇This Part Merge from: AdGuard 基础过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
-||fapnado.*.php|
-Banner468x60
+||142.91.159.
+||admi2fib4exit^
+! 👇This Part Merge from: CJX's Annoyance List (https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)
+||acookie.*.gif?
 ! 👇This Part Merge from: anti-AD (https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt)
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
@@ -537,13 +395,171 @@ Banner468x60
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
 ! 👇This Part Merge from: AdGuard 基础过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
-rgmechanicsgames.com*VPN.exe
-||ads*.dfiles.eu^
-||ads*.depositfiles.com^
-||ads*.depositfiles.org^
-||ads*.dfiles.ru^
-! 👇This Part Merge from: CJX's Annoyance List (https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)
-||acookie.*.gif?
+||util-*.simply-hentai.com^
+||centent.streamp1ay.
+||cas.*.criteo.com^
+||cintent.streanplay.
+! 👇This Part Merge from: AdGuard DNS filter (https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt)
+||adserver*.euroweeklynews.com^
+||an.yandex.
+||mapi-log.qoo*.jp^
+||analytics-*-nfl.yinzcam.com^
+||xlog*-*.tiktokv.com^
+||sdk-*.moengage.com^
+||liveme-sensors-collect2-*.amazonaws.com^
+||rtlog*.tiktokv.us^
+||allsportsflix.
+||log*-normal-*.tiktokv.us^
+||iphone-caviar.ru*entranceId
+||w*statistics.info^
+||bondzgi*.
+||hw-sh-pcdn-*.biliapi.net^
+||ulog-*.ksapisrv.com^
+||partner.superbahisaffiliates*.com^
+||admob-app-id-*.firebaseio.com^
+||v.tzbox*.xyz^
+||23.109.82.
+||u*.takru.com^
+||rotabanner.
+||metrics*.fitanalytics.com^
+||log*-misc-lf.amemv.com^
+||ulog*.gifshow.com^
+||eclog*-*.cafe24.com^
+||flipflapflo.
+||gonews*.net^
+||real*traf.ru^
+||datacollector-*.dt.dbankcloud.cn^
+||underclick.
+||mon*-*.tiktokv.us^
+||batchlogging*-noneu.truecaller.com^
+||imp-*.jampp.com^
+||tag-based.s3.*.amazonaws.com^
+||tracking.*.miui.com^
+||alishop*.ru^
+||ali-bj-pcdn-*.biliapi.net^
+||ulog.*.ksapisrv.com^
+||banner*.kinogo.by^
+||suite*.linximpulse.net^
+||t*.playdigo.live^
+||pop-under.
+||basvformu*.xyz^
+||talpa-analytics.
+||tnc16-*.hypic.com^
+||mcs-va-*.tiktokv.com^
+||mon-*.tiktokv.com^
+||linkexchange.
+||web-visor.
+||under-click.
+||mon*-*.tiktokv.com^
+||tnc*.tiktokv.us^
+||log-*.epicdn.me^
+||log-collector.shopee.
+||report*.appmetrica.webvisor.com^
+||ad*.tmgrup.com.tr^
+||beacons*.gvt3.com^
+||goodadvert.
+||flurry.agentportal.*.yahoodns.net^
+||rtlog*.tiktokv.com^
+||cdn*.swaxis.com^
+||srmdata-*.com^
+||use-trk*.bluevoox.com^
+||logservice-*.platform.dbankcloud.cn^
+||log*-normal-useast1a.lemon8-app.com^
+||icq-window.
+||icqwindow.
+||rb*.design.ru^
+||log*.byteoversea.com^
+||mon*-misc-lf.fqnovel.com^
+||mon*-misc.fqnovel.com^
+||logs*.smithsonian.museum^
+||ulog*.kwai-pro.com^
+||bar*.shinobi.jp^
+||counter*.freecounter.ovh^
+||grs.dbankcloud.
+||mgbsdk*.matrix.easebar.com^
+||i-*.ci360.sas.com^
+||ad*.bilgin.pro^
+||api*.amplitude.com^
+||report.*.qq.com^
+||seller-log-collector.shopee.
+||subnewss*.net^
+||matomo.*.vn^
+||23.109.87.
+||ulog.*.kwai-pro.com^
+||ubacollect-*.cloud.dbankcloud.cn^
+||medialand.
+||track.*.roku.com^
+||appanalysis*.banggood.com^
+||device-metrics-*.amazon.com^
+||maas-*.phunware.com^
+||rotaban.
+||rusrestbest.
+||applog*.matrix.easebar.com^
+||tnc-va*.capcutapi.com^
+||v.newsportal*.ru^
+||mcs.*.tiktokv.com^
+||fp-*it*.fengkongcloud.com^
+||popuptraf.
+||ulog*.kwaipros.com^
+||vst.videolink.
+||videoclik.
+||poshalim.
+||158.247.208.
+||logs-*.rebxgame.com^
+||log-va*.capcutapi.com^
+||log-*.zadn.vn^
+||api*.moengage.com^
+||orbit*.lun.ua^
+||popupclick.
+||mon-va*.capcutapi.com^
+||dw-informer-*.newsru.com^
+||datacollector-*.dt.hicloud.com^
+||q*-publick.club^
+||piwik.*.vn^
+||letssex.
+||sonar*.xy.fbcdn.net^
+||minitds-*.info^
+||cl*.k5a.io^
+||mautic.*.vn^
+||discovery-ios-*.ertelecom.ru^
+||snowplow-collector-*.amazonaws.com^
+||adserver1.
+||tracking-*.trnox.com^
+||pop-parad.
+||snowplow-collector.
+||mediacontext.
+||videoclick.
+||batchlogging*-eu.truecaller.com^
+||broredir*s.site^
+||admulti.
+||report.*.gbqofs.io^
+||parkdomainreal*.site^
+||popunder.
+||livetracker.*.pangea-cms.com^
+||quangcao-*.epicdn.me^
+||rotator.
+|167.206.10.148^
+||flurry.agentportal-*.yahoodns.net^
+||poptraf.
+||v*.sitecounter.site^
+! 👇This Part Merge from: halflife-list (https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt)
+||bc.geocities.
+||collector-*.luigisbox.com^
+||stats-*.p2pnow.ru^
+||ub.galaxus.
+||mcdp-*.outbrain.com^
+||stats2.*.fdnames.com^
+||tracker.twenga.
+||fb_servpub-a.akamaihd.net^
+%2Fopen.aspx%3F
+||aff*.kolektiva.net^
+||geotargetly-api-*.com^
+||df.infra.sz.shopee.
+%2Frw%2Fbeacon_
+||log-*.previewnetworks.com^
+||analytics.ticketmaster.
+%2Fevent.gif%3F
+||df.infra.shopee.
 ! 👇This Part Merge from: AdGuard DNS filter (https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt)
 ||ad*.gyaloglo.hu^
 ||ad*.thisisgame.com^
@@ -565,13 +581,15 @@ analytics-*.aasaam.com
 ||sher.*.hu^
 ||1024wanzhai.
 ! 👇This Part Merge from: halflife-list (https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt)
-%2Fopen.aspx%3F
-||geotargetly-api-*.com^
-%2Frw%2Fbeacon_
-%2Fevent.gif%3F
-! 👇This Part Merge from: AdGuard 基础过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
-||ads*.opensubtitles.org^
-@@||cdn*.porn300.com^
+||stw.extreme-down.
+||stats.zone-annuaire.
+||stat.*.v-56.com^
+||matt.mercadolibre.
+||mr.allegro.
+||onetrust.
+||sta.zone-telechargement.
+||stats*.credit-cooperatif.coop^
+||sta.wawacity.
 ! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)
 directtrack.*.js
 ! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)
@@ -586,22 +604,3 @@ r.rakuten.co.jp%2F*.gif%3Fmpe%3D
 ||log*-*.tiktokv.com^
 google.com%2Fappserve%2Fmkt%2Fproof%2Fimg%2F*.gif
 click.official.infomaniak.com%2Fo%2F
-! 👇This Part Merge from: halflife-list (https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt)
-||stw.extreme-down.
-||stat.*.v-56.com^
-||matt.mercadolibre.
-||stats*.credit-cooperatif.coop^
-||ub.galaxus.
-||fb_servpub-a.akamaihd.net^
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||mr.allegro.
-||onetrust.
-||sta.zone-telechargement.
-||sta.wawacity.
-||analytics.ticketmaster.
-||df.infra.shopee.
-! 👇This Part Merge from: AdGuard 恼人广告过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt)
-||widgets.*.webengage.com^
-! 👇This Part Merge from: AdGuard 恼人广告过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt)
-||chat*-ce.chatdealer.jp^
