@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-08-17 00:00:31
+! Last Modified: 2025-08-17 08:00:53
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -773,7 +773,6 @@
 127.0.0.1 lc.getui.com
 127.0.0.1 gas.data.pplive.com
 127.0.0.1 bs.l.qq.com
-127.0.0.1 fms.ipinyou.com
 127.0.0.1 trc.adsage.com
 127.0.0.1 jsmedia.adsame.com
 127.0.0.1 t2.a.market.xiaomi.com
@@ -785,7 +784,6 @@
 127.0.0.1 sm.domob.cn
 127.0.0.1 asp.adsame.com
 127.0.0.1 cbjs.baidu.com
-127.0.0.1 ads2.msn.com
 127.0.0.1 logs.chelaile.net.cn
 127.0.0.1 afs.googlesyndication.com
 127.0.0.1 omgmta.play.ott.video.qq.com
@@ -989,7 +987,6 @@
 127.0.0.1 res.aduu.cn
 127.0.0.1 letv.axp.admaster.com.cn
 127.0.0.1 adashx4yt.m.taobao.com
-127.0.0.1 g.koowo.com
 127.0.0.1 adstore-1252524079.file.myqcloud.com
 127.0.0.1 c.admob.com
 127.0.0.1 tobapplog.ctobsnssdk.com
@@ -1347,7 +1344,6 @@
 127.0.0.1 ebp.renren.com
 127.0.0.1 stat2.corp.56.com
 127.0.0.1 mydisplay.ctfile.com
-127.0.0.1 ads.msn.com
 127.0.0.1 x.adpro.cn
 127.0.0.1 mcgi.v.qq.com
 127.0.0.1 mobwsa.ximalaya.com
@@ -2084,6 +2080,7 @@
 127.0.0.1 g.doubleclick.net
 127.0.0.1 cdn.bluebillywig.com
 127.0.0.1 cdn-magiclinks.trackonomics.net
+127.0.0.1 ads2.msn.com
 127.0.0.1 x.dlx.addthis.com
 127.0.0.1 extend.tv
 127.0.0.1 px.britepool.com
@@ -2975,6 +2972,7 @@
 127.0.0.1 secure.gooddata.com
 127.0.0.1 as.criteo.com
 127.0.0.1 popup.taboola.com
+127.0.0.1 g.koowo.com
 127.0.0.1 blink.fra-01.braze.eu
 127.0.0.1 iris.tv
 127.0.0.1 fyc.heyzap.com
@@ -3675,6 +3673,7 @@
 127.0.0.1 spl.zeotap.com
 127.0.0.1 policy.rayjump.com
 127.0.0.1 msdk-files.webengage.com
+127.0.0.1 fms.ipinyou.com
 127.0.0.1 applink.mob.com
 127.0.0.1 4706.api.swrve.com
 127.0.0.1 a.idio.co
@@ -8026,6 +8025,7 @@
 127.0.0.1 px.tvadsync.com
 127.0.0.1 pssvc.iqzone.com
 127.0.0.1 pushnami.com
+127.0.0.1 ads.msn.com
 127.0.0.1 slckg-nugvu.ads.tremorhub.com
 127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 trk.atomex.net
