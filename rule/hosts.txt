@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-08-24 08:00:40
+! Last Modified: 2025-08-24 16:00:39
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -422,7 +422,6 @@
 127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 a.baidu.com
 127.0.0.1 ad.us.sinaimg.cn
-127.0.0.1 ad.leadboltapps.net
 127.0.0.1 tools.3g.qq.com
 127.0.0.1 v3-ad.ixigua.com
 127.0.0.1 mvp.mediav.com
@@ -863,7 +862,6 @@
 127.0.0.1 devs.data.mob.com
 127.0.0.1 news.l.qq.com
 127.0.0.1 adashx.ut.amap.com
-127.0.0.1 stats.jpush.cn
 127.0.0.1 mtt.eve.mdt.qq.com
 127.0.0.1 m.shilian168.cn
 127.0.0.1 ads.eu.msn.com
@@ -1471,7 +1469,6 @@
 127.0.0.1 met.adwhirl.com
 127.0.0.1 adxserver.ad.cmvideo.cn
 127.0.0.1 www.admaji.com
-127.0.0.1 s.jpush.cn
 127.0.0.1 pv.mediav.com
 127.0.0.1 aduu.cn
 127.0.0.1 wbapp.mobile.sina.cn
@@ -2411,6 +2408,7 @@
 127.0.0.1 4422.api.swrve.com
 127.0.0.1 confiant-integrations.global.ssl.fastly.net
 127.0.0.1 cdn.inskinad.com
+127.0.0.1 stats.jpush.cn
 127.0.0.1 analytics.shareaholic.com
 127.0.0.1 pd.sharethis.com
 127.0.0.1 latency.agoop.net
@@ -4616,6 +4614,7 @@
 127.0.0.1 vaicore.xyz
 127.0.0.1 sync.intentiq.com
 127.0.0.1 avocarrot.com
+127.0.0.1 s.jpush.cn
 127.0.0.1 a.klaviyo.com
 127.0.0.1 wl.aniview.com.edgekey.net
 127.0.0.1 query.fqtag.com
@@ -6773,6 +6772,7 @@
 127.0.0.1 cdn.advertserve.com
 127.0.0.1 pg-prebid-server-aws-ane1.rubiconproject.com
 127.0.0.1 teads.tv.edgekey.net
+127.0.0.1 ad.leadboltapps.net
 127.0.0.1 creative.metalyzer.com
 127.0.0.1 widget-pixels.outbrain.com
 127.0.0.1 morgdog.springserve.com
