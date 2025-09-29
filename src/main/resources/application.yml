@@ -68,16 +68,55 @@ application:
       - name: damengzhu/banad
         path: https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 
+      - name: AWAvenue-Adblock-Rule
+        path: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
+
       - name: NoAppDownload
         path: https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt
 
-      - name: CJX's Annoyance List
+      - name: xndeye web-ad-rule
+        path: https://raw.githubusercontent.com/xndeye/web-ad-rule/master/easylist.txt
+
+      - name: xinggsf movie
+        path: https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
+
+      - name: damengzhu jiekouAD
+        path: https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
+
+      - name: cjxlist annoyance
         path: https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+
+      - name: ABP filters
+        path: https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+
+      - name: ABP 反广告过滤
+        path: https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+
+      - name: uBlockOrigin privacy
+        path: https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/privacy.txt
+
+      - name: Telemetry Lists - Aggregated
+        path: https://raw.githubusercontent.com/SystemJargon/filters/refs/heads/main/telemetry.txt
+
+      - name: GoodbyeAds-Xiaomi
+        path: https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Extension/GoodbyeAds-Xiaomi-Extension.txt
+
+      - name: GoodbyeAds-Huawei
+        path: https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Extension/GoodbyeAds-Huawei-AdBlock.txt
+
+      - name: GoodbyeAds-Samsung
+        path: https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Extension/GoodbyeAds-Samsung-AdBlock.txt
+
+      - name: GoodbyeAds
+        path: https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+
+      - name: GoodbyeAds_YT
+        path: https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Extension/GoodbyeAds-YouTube-AdBlock.txt
         
     #本地规则
-    local: #本地规则请将文件移动到项目路径rule目录中
-      - name: 'xndeye private List'
-        path: 'private.txt'
+   # local: #本地规则请将文件移动到项目路径rule目录中
+   #   - name: 'xndeye private List'
+   #     path: 'private.txt'
 
   output:
     file_header: |  #输出文件头, 占位符${name}将被替换为文件名，如all.txt,  ${date} 将被替换为当前日期
