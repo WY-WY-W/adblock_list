@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-09-29 00:00:41
+! Last Modified: 2025-09-29 08:01:08
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -676,6 +676,7 @@
 127.0.0.1 st.appsad.cn
 127.0.0.1 localhost
 127.0.0.1 app-tj.adinall.com
+127.0.0.1 net.rayjump.com
 127.0.0.1 paopao2.qiyipic.com
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 b1.ads.oppomobile.com
@@ -1119,6 +1120,7 @@
 127.0.0.1 netdna.reporo.net
 127.0.0.1 8b4pea.c.admaster.com.cn
 127.0.0.1 aa1.pub.funshion.com
+127.0.0.1 adx-tk.rayjump.com
 127.0.0.1 a.dounanhuahui.com
 127.0.0.1 tuijian.baidu.com
 127.0.0.1 xiaomi.m.cn.miaozhen.com
@@ -1247,6 +1249,7 @@
 127.0.0.1 x.adnet.qq.com
 127.0.0.1 update0.aiclk.com
 127.0.0.1 unidesk.alicdn.com
+127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 c.cnzz.com
 127.0.0.1 show.buzzcity.net
 127.0.0.1 static.g.pptv.com
@@ -1446,6 +1449,7 @@
 127.0.0.1 changyan.sohu.com
 127.0.0.1 lp.mydas.mobi
 127.0.0.1 adashx.m.taobao.com
+127.0.0.1 ads.stickyadstv.com
 127.0.0.1 h-adashx.ut.ele.me
 127.0.0.1 gxbr.cnzz.com
 127.0.0.1 y76.ylems.club
@@ -2423,7 +2427,6 @@
 127.0.0.1 worker21.advertnative.com
 127.0.0.1 surveys.insightexpressai.com
 127.0.0.1 sjrtp5.marketo.com
-127.0.0.1 ads.stickyadstv.com
 127.0.0.1 smetrics.boston.com
 127.0.0.1 dsp.batmobi.net
 127.0.0.1 rtp-static.marketo.com
@@ -2792,7 +2795,6 @@
 127.0.0.1 api.popin.cc
 127.0.0.1 sjc-bid.contextweb.com
 127.0.0.1 analytics.bestbuy.com
-127.0.0.1 net.rayjump.com
 127.0.0.1 cm.ipinyou.com
 127.0.0.1 ssptrk.adpopcorn.com
 127.0.0.1 adserver.adtechjp.com
@@ -3832,7 +3834,6 @@
 127.0.0.1 statcollector.sidearmsports.com
 127.0.0.1 rules.aatkit.com
 127.0.0.1 rtb.openx.net
-127.0.0.1 adx-tk.rayjump.com
 127.0.0.1 i2i.jp
 127.0.0.1 analytics.picsart.com
 127.0.0.1 code.metalocator.com
@@ -7165,7 +7166,6 @@
 127.0.0.1 comet.yahoo.com
 127.0.0.1 video.upqzfile.com
 127.0.0.1 mpluswf.ims.vodafone.com
-127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 bat.bing.com
 127.0.0.1 customer.cludo.com
 127.0.0.1 sjrtp7-cdn.marketo.com
