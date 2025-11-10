@@ -67,6 +67,62 @@ application:
     - name: GoodbyeAds-Samsung
       path: https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Extension/GoodbyeAds-Samsung-AdBlock.txt
 
+    # ========== NEW ADDITIONS START HERE ==========
+
+    - name: Hagezi Multi Pro - Adblock
+      path: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt
+      type: easylist
+
+    - name: Hagezi Threat Intelligence Feeds
+      path: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.txt
+      type: easylist
+
+    - name: OISD Big - Adblock
+      path: https://big.oisd.nl
+      type: easylist
+
+    - name: 1Hosts Pro - Adblock
+      path: https://o0.pages.dev/Pro/adblock.txt
+      type: easylist
+
+    - name: EasyPrivacy
+      path: https://easylist.to/easylist/easyprivacy.txt
+      type: easylist
+
+    - name: Fanboy Annoyance List
+      path: https://secure.fanboy.co.nz/fanboy-annoyance.txt
+      type: easylist
+
+    - name: Peter Lowe Ad Server List
+      path: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=0&mimetype=plaintext
+      type: easylist
+
+    - name: Steven Black Hosts
+      path: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+      type: hosts
+
+    - name: Hagezi Multi Pro - DNSMasq
+      path: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/pro.txt
+      type: dnsmasq
+
+    - name: OISD Big - DNSMasq
+      path: https://dbl.oisd.nl
+      type: dnsmasq
+
+    - name: Hagezi Multi Pro - Hosts
+      path: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/pro.txt
+      type: hosts
+
+    - name: 1Hosts Pro - Hosts
+      path: https://o0.pages.dev/Pro/hosts.txt
+      type: hosts
+
+    - name: uBlock Origin Unbreak
+      path: https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+      type: easylist
+
+    # ========== NEW ADDITIONS END HERE ==========
+
     - name: 'xndeye private adblock list'
       path: 'rule/private.txt'
       type: easylist
@@ -76,7 +132,7 @@ application:
       Title: xndeye adblock list of ${type}
       Total Size: ${total}
       Last Modified: ${date}
-      Homepage: https://github.com/xndeye/adblock_list
+      Homepage: https://github.com/WY-WY-W/adblock_list
 
     files:
       - name: easylist.txt
