@@ -28,16 +28,8 @@ application:
       path: https://filters.adtidy.org/extension/ublock/filters/224_optimized.txt
       type: easylist
 
-    - name: AWAvenue-Adblock-Rule
-      path: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
-      type: easylist
-
     - name: NoAppDownload
       path: https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt
-      type: easylist
-
-    - name: xndeye web-ad-rule
-      path: https://raw.githubusercontent.com/xndeye/web-ad-rule/master/easylist.txt
       type: easylist
 
     - name: Hagezi Multi Pro - Adblock
@@ -48,48 +40,12 @@ application:
       path: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.txt
       type: easylist
 
-    - name: OISD Big - Adblock
-      path: https://big.oisd.nl
-      type: easylist
-
-    - name: 1Hosts Pro - Adblock
-      path: https://o0.pages.dev/Pro/adblock.txt
-      type: easylist
-
     - name: EasyPrivacy
       path: https://easylist.to/easylist/easyprivacy.txt
       type: easylist
 
-    - name: Fanboy Annoyance List
-      path: https://secure.fanboy.co.nz/fanboy-annoyance.txt
-      type: easylist
-
-    - name: Peter Lowe Ad Server List
-      path: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=0&mimetype=plaintext
-      type: easylist
-
-    - name: Steven Black Hosts
-      path: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-      type: hosts
-
-    - name: Hagezi Multi Pro - DNSMasq
-      path: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/pro.txt
-      type: dnsmasq
-
-    - name: Hagezi Multi Pro - Hosts
-      path: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/pro.txt
-      type: hosts
-
-    - name: 1Hosts Pro - Hosts
-      path: https://o0.pages.dev/Pro/hosts.txt
-      type: hosts
-
     - name: uBlock Origin Unbreak
       path: https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
-      type: easylist
-
-    - name: 'xndeye private adblock list'
-      path: 'rule/private.txt'
       type: easylist
 
   output:
