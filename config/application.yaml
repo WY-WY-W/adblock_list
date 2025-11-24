@@ -48,6 +48,10 @@ application:
       path: https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
       type: easylist
 
+    - name: GOODBYEADS
+      path: https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt
+      type: easylist
+
   output:
     file_header: |
       Title: xndeye adblock list of ${type}
