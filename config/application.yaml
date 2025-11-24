@@ -40,35 +40,6 @@ application:
       path: https://raw.githubusercontent.com/xndeye/web-ad-rule/master/easylist.txt
       type: easylist
 
-    - name: xinggsf movie
-      path: https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
-
-    - name: cjxlist annoyance
-      path: https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
-
-    - name: EasyList China+EasyList
-      path: https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
-
-    - name: ABP filters
-      path: https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
-
-    - name: uBlockOrigin privacy
-      path: https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/privacy.txt
-
-    - name: Telemetry Lists - Aggregated
-      path: https://raw.githubusercontent.com/SystemJargon/filters/refs/heads/main/telemetry.txt
-
-    - name: GoodbyeAds-Xiaomi
-      path: https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Extension/GoodbyeAds-Xiaomi-Extension.txt
-
-    - name: GoodbyeAds-Huawei
-      path: https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Extension/GoodbyeAds-Huawei-AdBlock.txt
-
-    - name: GoodbyeAds-Samsung
-      path: https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Extension/GoodbyeAds-Samsung-AdBlock.txt
-
-    # ========== NEW ADDITIONS START HERE ==========
-
     - name: Hagezi Multi Pro - Adblock
       path: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt
       type: easylist
@@ -116,8 +87,6 @@ application:
     - name: uBlock Origin Unbreak
       path: https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
       type: easylist
-
-    # ========== NEW ADDITIONS END HERE ==========
 
     - name: 'xndeye private adblock list'
       path: 'rule/private.txt'
