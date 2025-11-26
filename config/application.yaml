@@ -40,6 +40,34 @@ application:
       path: https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt
       type: easylist
 
+    - name: anti-AD
+      path: https://anti-ad.net/easylist.txt
+      type: easylist
+      
+    - name: OISD Blocklist Big
+      path: https://big.oisd.nl
+      type: easylist
+
+    - name: HaGeZi Pro Blocklist
+      path: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt
+      type: easylist
+
+    - name: Dandelion Sprout Anti Push Notifications
+      path: https://adguardteam.github.io/HostlistsRegistry/assets/filter_39.txt
+      type: easylist
+
+    - name: HaGeZi Windows/Office Tracker Blocklist
+      path: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
+      type: easylist
+      
+    - name: HaGeZi Apple Tracker Blocklist
+      path: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
+      type: easylist
+
+    - name: 1Hosts (Lite)
+      path: https://badmojr.github.io/1Hosts/Lite/adblock.txt
+      type: easylist
+      
   output:
     file_header: |
       Title: xndeye adblock list of ${type}
