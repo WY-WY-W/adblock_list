@@ -32,20 +32,8 @@ application:
       path: https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt
       type: easylist
 
-    - name: Hagezi Multi Pro - Adblock
-      path: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt
-      type: easylist
-
-    - name: Hagezi Threat Intelligence Feeds
-      path: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.txt
-      type: easylist
-
     - name: EasyPrivacy
       path: https://easylist.to/easylist/easyprivacy.txt
-      type: easylist
-
-    - name: uBlock Origin Unbreak
-      path: https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
       type: easylist
 
     - name: GOODBYEADS
